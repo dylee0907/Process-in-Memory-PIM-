@@ -10,7 +10,7 @@ Syntheize possibility is yet to be determined.
 We have concluded that after MAC operation ended, the result that goes in to sense amplifier
 must come out linearly.
 
-I designed parameterized ADC's and DAC's amplifing value for it is a value to be controled by analog.
+ADC's and DAC's amplifing value has been paramterized and could be changed based on the user since it is to be controled by analog.
 
 The result in testbench shows that increase in value of 2 leads to increase value of 92 in result.
 
