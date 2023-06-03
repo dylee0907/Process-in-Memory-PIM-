@@ -9,7 +9,7 @@ Circuit synthesize possibility is yet to be determined.
 We have concluded that after MAC operation ended, the result that goes in to sense amplifier
 must come out linearly.
 
-We seperated bitlinesand workdlines for positive and negative values which will be summed up after passing through amp.
+We seperated bitlines and workdlines for positive and negative values which will be summed up after passing through amp.
 We used 8-SRAMS per bit cell.
 
 ADC's and DAC's amplifing value has been paramterized and could be changed based on the user since it is to be controled by analog.
