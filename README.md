@@ -10,7 +10,10 @@ must come out linearly.
 I designed parameterized ADC's and DAC's amplifing value for it is a value to be controled by analog.
 The result in testbench shows that increase in value of 2 leads to increase value of 92 in result.
 
-2023. 06. 23
+2023. June. 3
+
 KHU VLSI Lab
+
 Dongyoung Lee
+
 Code available to any users of github
