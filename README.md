@@ -1,5 +1,5 @@
 # Process-in-Memory-PIM for DFT
-PIM architecture using SRAM
+PIM architecture for DFT using SRAM
 
 "This is a toy project to verify the activation of Process In Memory".
 
