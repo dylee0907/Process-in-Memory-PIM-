@@ -21,3 +21,7 @@ The result in testbench shows that increase in value of 2 leads to increase valu
 #Dongyoung Lee
 
 #Code available to any users of github
+
+![image](https://github.com/dylee0907/Process-in-Memory-PIM-/assets/79738681/5a37133e-c40b-4996-97cb-a91e6cc5c97a)
+
+![image](https://github.com/dylee0907/Process-in-Memory-PIM-/assets/79738681/f84f7d38-f9a0-4a9e-a017-5ecee59059d3)
